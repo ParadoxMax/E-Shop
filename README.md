@@ -1,5 +1,5 @@
 # E-Shop
-This is a React Native E-Commerce app created by Mehdi
+This is a React Native E-Commerce app created by Mehdi. 
 Libraries used in the version 0.1.0 are:
 
 1) React Navigation
